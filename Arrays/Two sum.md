@@ -1,7 +1,6 @@
 import os
 
-# Content for the GitHub-ready Markdown file
-github_content = """# Two Sum: Hash Map Optimization
+"""# Two Sum: Hash Map Optimization
 
 This repository demonstrates the optimal solution for the classic **Two Sum** problem using Hash Maps in both Python and Java.
 
